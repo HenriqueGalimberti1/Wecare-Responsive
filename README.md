@@ -42,7 +42,7 @@ Easy-Shopping-home/<br>
 
 ## 📱 Funcionalidades
 
-- ✅ Layout totalmente responsivo (foco em mobile)
+- ✅ Layout totalmente responsivo
 - ✅ Navegação simples entre seções
 - ✅ Design limpo e minimalista
 - ✅ Botão de chamada para ação ("Get Started")
@@ -52,8 +52,8 @@ Easy-Shopping-home/<br>
 ## 🖼️ Preview
 <div align="center">
    
-![Preview da Landing Page](./assets/image.png)
-![Preview da Landing Page](./assets/image.png)
+![Preview da Landing Page](./assets/Fullscreem-Wecare-Home.PNG)
+![Preview da Landing Page](./assets/Fullscreem-WeCare-Cellphone.PNG)
 </div>
 ---
 
