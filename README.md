@@ -55,6 +55,7 @@ Easy-Shopping-home/<br>
 ![Preview da Landing Page](./assets/Fullscreem-Wecare-Home.PNG)
 ![Preview da Landing Page](./assets/Fullscreem-WeCare-Cellphone.PNG)
 </div>
+
 ---
 
 ## 🔧 Como Executar
