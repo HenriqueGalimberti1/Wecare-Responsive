@@ -66,4 +66,17 @@ Easy-Shopping-home/<br>
 
    Abra o arquivo index.html no seu navegador preferido.
 
+## 🎯 Próximas Melhorias
+
+- Implementar formulário de contato funcional
+- Melhorar acessibilidade (ARIA labels)
+- Integrar com redes sociais
+- javascrip implementado
+
+## 👨‍💻 Autor
+Henrique Galimberti
+- GitHub: @HenriqueGalimberti1
+
+## ⭐ Não esqueça de dar uma estrela no repositório se gostou do projeto!
+-- DevClub
   
