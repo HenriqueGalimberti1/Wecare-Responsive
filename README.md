@@ -1,7 +1,8 @@
 # 🐾 We Care About Your Pet - Landing Page
-
-![We Care About Your Pet Preview](./assets/image.png)
-
+<div align="center">
+   
+![We Care About Your Pet Preview](./assets/girl_dog.png)
+</div>
 ## 📋 Sobre o Projeto
 
 Este é um projeto de uma landing page single-page desenvolvida para apresentar um serviço de **cuidados com pets** (veterinária/pet shop). O objetivo é transmitir confiança e carinho no atendimento aos animais, com um design moderno, limpo e amigável.
